@@ -1,0 +1,24 @@
+#canvas1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 400px;
+    border: 2px solid black;
+    background-image: url('./img/bg.png');
+}
+
+.title {
+    z-index: 10;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    inset: 0;
+    color: aliceblue;
+}
+
+.hide {
+    display: none;
+}
