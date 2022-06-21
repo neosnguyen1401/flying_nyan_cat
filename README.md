@@ -5,4 +5,4 @@ This is a little game i build base on flappy bird, inspired by nyan cat. Using H
 
 The purpose of making this project is to test my skill in Javascript and put it in my Portfolio.
 
-link demo: https://neosnguyen1401.github.io/FlyingNyanCat/
+link demo: flyingnyancat.netlify.app
